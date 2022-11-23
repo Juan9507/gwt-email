@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gwt-user">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gwt-2.8.2/gwt-2.8.2/gwt-user.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jar_files/mysql-connector-java-8.0.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../jar_files/protobuf-java-3.19.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gwt-2.8.2/gwt-2.8.2/gwt-user.jar!/" />
+    </SOURCES>
+  </library>
+</component>
